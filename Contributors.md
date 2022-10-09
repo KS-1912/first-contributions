@@ -7,6 +7,7 @@
 - [CSanjana](https://github.com/Sanjana20304)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
+- [Kamya Singh](https://github.com/KS-1912)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Ronaldo Kereh](https://github.com/kereh)
